@@ -2,7 +2,7 @@
 
 A modern, responsive cryptocurrency tracking application built with React and powered by the CoinGecko API. Track real-time crypto prices, view detailed charts, and stay updated with the latest market trends.
 
-![CryptoTracker Banner](./public/banner2.jpg)
+![CryptoTracker Banner](./public/image.png)
 
 ## ✨ Features
 
